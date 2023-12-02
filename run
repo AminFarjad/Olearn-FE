@@ -1,0 +1,8 @@
+export NODE_OPTIONS=--openssl-legacy-provider
+to run 
+
+
+
+
+to run mongodb
+unset NODE_OPTIONS
